@@ -1,0 +1,12 @@
+node_modules/
+.env
+dist/
+build/
+.DS_Store
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+logs/
+*.log
+package-lock.json
+public/cursors/ (Optional: if the user wants pointers to remain local, but usually these stay in public)
